@@ -52,6 +52,16 @@ The Analysis tool used to evaluate and analyze this dataset is 	Excel.
 
 
 ## FINDINGS
+### - HIGHEST SALES PER GROUP
+  * Peak Order Time for Pizza: 12 PM
+  * Most Ordered Pizza by Category: Classic with 30% orders
+  * Most Ordered Pizza by Name: The Classic Deluxe Pizza
+  * Customer's Preference: Vegetarian
+  * Highest Ordered Days: Friday with 16%
+  * Highest Pizza Size : Large(L)
+  * Revenue by Category: Classic Pizza with ₦220,053.10
+  * Revenue by Pizza Name: The Thai chicken Pizza with ₦43,434
+  * Period with unusually High sales: August 12PM noon (with Classic Pizza)
 
 
 
