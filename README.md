@@ -8,3 +8,6 @@ The Following Insights were analyzed; These are:
 - Order Patterns: Here, sales were analyzed based on how often customers order more than one pizza at a time.
 - Pricing Insights: The price range of the pizzas sold was identified, and the unit prices of pizzas across different sizes and categories were evaluated.
 - Finally, time-based insight was assessed, where the  periods with unusually high or low sales were investigated.
+
+
+## TABLE OF CONTENTS
