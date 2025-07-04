@@ -20,6 +20,6 @@ The Following Insights were analyzed; These are:
 - Pricing Insights: The price range of the pizzas sold was identified, and the unit prices of pizzas across different sizes and categories were evaluated.
 - Finally, time-based insight was assessed, where the  periods with unusually high or low sales were investigated.
 
-## CONTENTS
+## CONTENT
 
 
