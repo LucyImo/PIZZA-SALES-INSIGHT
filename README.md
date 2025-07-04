@@ -40,7 +40,7 @@ In the 12 columns, we have the following headers;
 ## DATA SOURCES
 The data is an Excel file, and it is a practical dataset.
 
-##  OBSERVATION DURING DATA CLEANING AND 	PREPARATION:
+##  OBSERVATIONS DURING DATA CLEANING AND PREPARATION:
 The Analysis tool used to evaluate and analyze this dataset is 	Excel.
 * From the original dataset collected, we had 48,621 rows and 12 	columns.
 * The column for Order date was divided into the following: Order days(Days of the week),
