@@ -74,6 +74,15 @@ The Analysis tool used to evaluate and analyze this dataset is 	Excel.
   * Lower Revenue by Pizza Name : The Brie Carre Pizza
   * Period with unusually Low sales: 9AM to 10AM in October, July, June,April,March, February and November.
 
+OTHER INSIGHTS INCLUDE;
+A. The total orders for pizza for this period in 48,620
+B. The total sales for the period is ₦817,860.05
+C. The average order value for this sales is  ₦ 16.82
+D. Customer buy 1 pizza  often than other quantities.
+E. The general price range of pizza sold is within the range of  ₦ 9.75 -  ₦ 83.00
+
+
+
 ## RECOMMENDATIONS
     
 
