@@ -69,21 +69,35 @@ The Analysis tool used to evaluate and analyze this dataset is 	Excel.
   * Least Ordered Pizza by Name: The Brie Carre Pizza
   * Customer's Preference: Non-Vegetarian
   * Least ordered days: Sunday with 12%
-  * Least Pizza size Ordered : XXL (Extra extra Large)
+  * Least Pizza size Ordered: XXL (Extra Extra Large)
   * Lower Revenue by Category: Veggie Pizza ₦193,690.45
-  * Lower Revenue by Pizza Name : The Brie Carre Pizza
-  * Period with unusually Low sales: 9AM to 10AM in October, July, June,April,March, February and November.
+  * Lower Revenue by Pizza Name: The Brie Carre Pizza
+  * Period with unusually Low sales: 9 AM to 10 AM in October, July, June, April, March, February,
+    and November.
 
 OTHER INSIGHTS INCLUDE;
 - A. The total orders for pizza for this period in 48,620
-- B. The total sales for the period is ₦817,860.05
-- C. The average order value for this sales is  ₦ 16.82
-- D. Customer buy 1 pizza  often than other quantities.
+- B. The total sales for the period are ₦817,860.05
+- C. The average order value for these sales is  ₦ 16.82
+- D. Customer buys 1 pizza  often than other quantities.
 - E. The general price range of pizza sold is within the range of  ₦ 9.75 -  ₦ 83.00
 
 
 
 ## RECOMMENDATIONS
+- The company should introduce a promotion pack for October, November, and December that will
+  improve sales from October November, and December to boost customers’ demand.
+- Also, friendly gifts and packages should be introduced alongside with XXL size pizza to boost its sales.
+- Also, logistic dispatch riders should be introduced to other locations and the target audience
+  at locations where access fails.
+- Sunday's Sales should come with an exciting package, like organizing fun time for families,
+  introducing games that will lead to the purchase of more packs of pizzas for consumption.
+
+## REFERENCES
+
+
+
+
     
 
 
