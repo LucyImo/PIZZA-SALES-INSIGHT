@@ -94,8 +94,8 @@ OTHER INSIGHTS INCLUDE;
   introducing games that will lead to the purchase of more packs of pizzas for consumption.
 
 ## REFERENCES
-
-
+- The Police Logo used for this dashboard was gotten from google.
+- Microsoft Excel 2021
 
 
     
