@@ -37,6 +37,25 @@ In the 12 columns, we have the following headers;
 - k. Pizza Ingredients: This column has to do with the ingredients used in making the pizza sold.
 - l. Pizza Name: These are the names of how pizzas are named.
 
+## DATA SOURCES
+The data is an Excel file, and it is a practical dataset.
+
+##  OBSERVATION DURING DATA CLEANING AND 	PREPARATION:
+The Analysis tool used to evaluate and analyze this dataset is 	Excel.
+* From the original dataset collected, we had 48,621 rows and 12 	columns.
+* The column for Order date was divided into the following: Order days(Days of the week),
+  Order month(Month of the year in words) and order year.
+* A new column was created to indicate vegetarian and non-vegetarian customers.
+* The Non-vegetarian customers are identified with the intake of beef, meat, and chicken.
+* Due to the changes made, the number of columns has increased to 16 from 12.
+* The Engine in Excel that was used to transform this data to a proper analyzable dataset is the Power Query Editor.
+
+
+
+
+
+
+
 
 
 
