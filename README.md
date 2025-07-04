@@ -63,6 +63,18 @@ The Analysis tool used to evaluate and analyze this dataset is 	Excel.
   * Revenue by Pizza Name: The Thai chicken Pizza with ₦43,434
   * Period with unusually High sales: August 12PM noon (with Classic Pizza)
 
+### - LOWEST SALES PER GROUP
+  * Least Order Time for Pizza: 9 AM
+  * Least Ordered Pizza by Category: Chicken Pizza with 22%
+  * Least Ordered Pizza by Name: The Brie Carre Pizza
+  * Customer's Preference: Non-Vegetarian
+  * Least ordered days: Sunday with 12%
+  * Least Pizza size Ordered : XXL (Extra extra Large)
+  * Lower Revenue by Category: Veggie Pizza ₦193,690.45
+  * Lower Revenue by Pizza Name : The Brie Carre Pizza
+  * Period with unusually Low sales: 9AM to 10AM in October, July, June,April,March, February and November.
+    
+
 
 
 
