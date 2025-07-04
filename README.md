@@ -11,3 +11,10 @@ The Following Insights were analyzed; These are:
 
 
 ## TABLE OF CONTENTS
+[Data_Overview](#data-overview)
+[Content](#content)
+[Data_Sources](#data-sources)
+[Observations_During_Cleaning_and_Preparation](#observations-during-cleaning-and-preparation)
+[Findings](#findings)
+[Recommendation](#recommendations)
+[References](#references)
