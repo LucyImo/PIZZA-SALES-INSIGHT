@@ -21,5 +21,29 @@ The Following Insights were analyzed; These are:
 - Finally, time-based insight was assessed, where the  periods with unusually high or low sales were investigated.
 
 ## CONTENT
+The dataset comprises the following;
+48,612 rows and 12 columns.
+In the 12 columns, we have the following headers;
+- a. Pizza ID: This is the number of the Pizza
+- b. Order ID: This has to do with the order number of the pizza sold.
+- c. Pizza name ID: This is how the pizzas are coded based on their names
+- d. Quantity: This is the column where the number of pizzas sold at that time is inputted.
+- e. Order date: This is the column for the date when the pizza was sold.
+- f. Order time: This is the column to indicate the period the pizza was sold.
+- g. Unit Price: This is the selling price for each pizza sold.
+- h. Total Price: This is the column for the total pizzas sold in quantity over a particular period.
+- i. Pizza Size: This is the size of the pizza sold; they are classified as Medium(as “M”), Large (as “L”), and Small (as “S”).
+- J. Pizza Category: This has to do with how the pizzas are categorized based on ( Chicken, Classic, Supreme, and Veggie).
+- k. Pizza Ingredients: This column has to do with the ingredients used in making the pizza sold.
+- l. Pizza Name: These are the names of how pizzas are named.
+
+
+
+
+
+
+
+
+
 
 
