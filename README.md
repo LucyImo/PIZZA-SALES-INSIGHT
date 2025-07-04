@@ -52,7 +52,7 @@ The Analysis tool used to evaluate and analyze this dataset is 	Excel.
 
 
 ## FINDINGS
-### - HIGHEST SALES PER GROUP
+#### - HIGHEST SALES PER GROUP
   * Peak Order Time for Pizza: 12 PM
   * Most Ordered Pizza by Category: Classic with 30% orders
   * Most Ordered Pizza by Name: The Classic Deluxe Pizza
@@ -63,7 +63,7 @@ The Analysis tool used to evaluate and analyze this dataset is 	Excel.
   * Revenue by Pizza Name: The Thai chicken Pizza with ₦43,434
   * Period with unusually High sales: August 12PM noon (with Classic Pizza)
 
-### - LOWEST SALES PER GROUP
+#### - LOWEST SALES PER GROUP
   * Least Order Time for Pizza: 9 AM
   * Least Ordered Pizza by Category: Chicken Pizza with 22%
   * Least Ordered Pizza by Name: The Brie Carre Pizza
