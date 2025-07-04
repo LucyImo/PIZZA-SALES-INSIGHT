@@ -6,7 +6,7 @@
 - [Data_Sources](#data-sources)
 - [Observations_During_Data_Cleaning_and_Preparation](#observations-during-data-cleaning-and-preparation)
 - [Findings](#findings)
-- [Recommendation](#recommendations)
+- [Recommendations](#recommendations)
 - [References](#references)
 
 ## DATA OVERVIEW
@@ -73,6 +73,8 @@ The Analysis tool used to evaluate and analyze this dataset is 	Excel.
   * Lower Revenue by Category: Veggie Pizza ₦193,690.45
   * Lower Revenue by Pizza Name : The Brie Carre Pizza
   * Period with unusually Low sales: 9AM to 10AM in October, July, June,April,March, February and November.
+
+## RECOMMENDATIONS
     
 
 
